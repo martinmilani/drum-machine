@@ -106,17 +106,6 @@ class DrumPad extends React.Component {
   }
 }
 
-function Footer() {
-  return (
-    <div class="footer text-right mr-2">
-      {" "}
-      by{" "}
-      <a href="https://codepen.io/martinmilani" class="text-light">
-        M.M
-      </a>{" "}
-    </div>
-  );
-}
 
 class App extends React.Component {
   constructor(props) {
@@ -172,7 +161,6 @@ class App extends React.Component {
               ))}
             </Grid>
           </Box>
-          <Footer />
         </Box>
       </Box>
 
