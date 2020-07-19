@@ -2,7 +2,7 @@
   "name": "drum-machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/martinmilani/drum-machine",
+  "homepage": "https://martinmilani.github.io/drum-machine",
   "engines": {
     "node": "13.7.0",
     "npm": "6.13.6"
